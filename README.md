@@ -1,6 +1,6 @@
 # COMP2245 Assignment 1
 
-This is Assignment 1 for <Your Name>
+This is Assignment 1 for <Miguel Ferrance>
 
 ## Branching
 
